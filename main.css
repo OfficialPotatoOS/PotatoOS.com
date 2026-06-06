@@ -1,0 +1,55 @@
+.web{
+    color:rgb(192,187,200);
+    text-align:center;
+    font-size:xx-large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style:initial;
+}
+body {
+    background-color:rgb(21,21,21);
+}
+h2 {
+    color:aliceblue;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style:initial;
+}
+p {
+    color:aliceblue;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style:initial;
+}
+h3 {
+    color:rgb(192,187,200);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:center;
+    font-size:x-large;
+    font-style:initial;
+}
+a {
+   background-color:rgb(0,86,207);
+   width:10px;
+   height:10px; 
+   padding: 10px;
+   color:rgb(192,187,200);
+   border:5px solid rgb(0, 132, 255);
+   margin:25px;
+   border-radius:8px;
+   text-decoration:none;
+   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+button {
+    border-radius: 50px;
+    background-color:aquamarine;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:5px solid rgb(0,136,136);
+}
+button:hover {
+    background-color:rgb(97,235,182);
+    border:5px solid rgb(0,116,116);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button:active {
+    background-color:rgb(77,215,162);
+    border:5px solid rgb(0,86,86);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
